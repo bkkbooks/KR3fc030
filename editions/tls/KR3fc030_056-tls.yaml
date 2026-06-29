@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc030/tls/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 句弦求股句二十四尺五十弦三十二尺六寸句自之淂六萬二十五句弦自之淂一十萬六千二百七十六寸以句减弦淂數四萬六千一百五十一寸開方淂股二百一十五寸不𥁞四千三百一分分之二百六十股弦求句股二十五尺六十三分弦三十七尺八寸二分股自之淂六百五十六萬八千九百六十九分弦自之淂一千四百三十萬三千五百萬二十四分以股减弦淂較七百七十二萬四千五百五十五分開方淂句二千七百八十一分不𥁞五萬五千六百二十一分分之五千九百四
+  hash: sha256:bd8bdd77d920b9d1301a4fa5834ce01b700e46ee800c83d9dc82e6255baf7921
+metadata:
+  title: 度測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc030.xml
+hash: sha256:8da2abd79073d0c1c95b9c73d05600aa185d5af0b455d9335bb27632de807513

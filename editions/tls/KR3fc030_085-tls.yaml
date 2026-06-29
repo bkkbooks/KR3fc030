@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc030/tls/v1/juan/85
+seq: 85
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 度測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc030.xml
+hash: sha256:162fa80cb42822fc06617bec3ff6a22a8b09501e8d09a346012d4fc7beea7382

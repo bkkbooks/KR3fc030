@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc030/tls/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 句自之淂九股自之淂十六并淂二十五為實開方淂弦五句弦求股句自之淂九弦自之淂二十五以句减弦淂較十六開方淂股四股弦求句股自之淂十六弦自之淂二十五以股减弦淂較九開方淂句三上三條為句股整法後衍竒零三法以通其餘句股求弦句三十六尺股四十七尺句自之淂一千二百九十六尺股自之淂五千二百九尺并淂三千五百五尺為實開方淂弦五十九尺不𥁞一千一百八十一分分之二十四
+  hash: sha256:26a85d9b8592ae1e88141ae5c427d2c34e5c6a7d61b459b399a65939af9f9218
+metadata:
+  title: 度測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc030.xml
+hash: sha256:444b52a6decede0323414e148db26186f6cb566c7c56826239fd0d9d9a9a529d

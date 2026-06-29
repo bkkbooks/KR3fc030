@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc030/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷上詮經詮理詮器詮法詮算詮原卷中平矩以正繩偃矩以望高覆矩以測深弦矩以見廣卷下卧矩以知逺環矩以為圓合矩以為方附開方说度算解
+  hash: sha256:dc216d23994cb0e4bd0c769563ded31ad2afb50bfb31e667a037a852370fea1d
+metadata:
+  title: 度測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc030.xml
+hash: sha256:34b1a376a131e48497fe695e1680d73b4fca4bea36bf608adfb0315690bb1a0e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc030/tls/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之淂全高測深者以口徑取平為凖立表測法必藉窺表以四尺為則立表四尺處亦取小大以窺表参望取平立表窺表以繩取直偃矩以望高句股相等法曰用矩度測高其地有可前可却者移就垂針界于矩度平分處不必乘算量相距數即窺表上數加窺表淂全高設相距所測高十六尺埀針界于矩度十分知爲高二十尺以至相距十七尺矩度平分知為高二十一尺相距九十六尺矩度平分知為高一百尺除窺表四尺為句股相等法曰用立表窺高立表相距淂幾何表後退行以窺表與立表所測参相直淂距幾何以窺表减立表餘六尺為餘表以餘表乘相距淂數㡬何為積實以退行距立表數㡬何爲法以除積實淂數㡬何為表上高加立表淂全高
+  hash: sha256:a17cea618bba6fe0529ab518579cb4fba2e835c6a7d5a69fe6adb1cccd4db36a
+metadata:
+  title: 度測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc030.xml
+hash: sha256:90f51ab4cf5c2e863684c83428d1aa89af9d814a70b10b39f9bf0aadaa0e1437

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc030/tls/v1/juan/86
+seq: 86
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以股求句法曰用矩度測深淂倒景以表度為一率以倒景二率與靣徑三率相乘淂積實表度分之淂物深四率設立石梁求深梁長七十二尺用矩度從近身梁𥁞岸處測至梁下相對水際淂倒景二十二分二三法以倒景二十二分二二乘梁長七十二尺淂積實一十六萬六尺表度分之淂梁下深一十六尺六毫設立石梁求深梁長七十二尺用立表求之以近身梁𥁞岸處當立表退行一十八尺以窺表參相直即以窺表乘梁長七十二尺淂積實二百八十八尺以退行一十八尺分之淂梁下深一十六尺論曰矩度測法不必退行今以梁𥁞
+  hash: sha256:9a8ed1c55b38eed0d1f7c79c962080ae02aaa70818ff8c02d1a417289573e975
+metadata:
+  title: 度測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc030.xml
+hash: sha256:bdf5c799897daf95c4d6c32beef8b4efae856bbcb50643fae3e624e0bff8b6a1

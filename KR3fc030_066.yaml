@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc030/tls/v1/juan/66
+seq: 66
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 尺橫于表間之積實一百六十尺也小句直景十度除積實淂數十六尺從之為表外小句以上之積實小句淂大股也皆變句以為股因橫而淂從者也然施之于用則表繁而矩簡槩可知焉以句求股法曰用矩度測高淂直景以直景為一率以表度二率與相距三率相乘淂積實直景除之淂物高四率設矩度測高相距三十二尺淂直景六十六分六𨤲六毫五絲法以表度乘相距淂積實三百二十尺直景六十六分六六五除這淂高四十八尺餘分六萬六千六百六十五之八十加窺表得全高五十二尺
+  hash: sha256:6db8baf15670ab0e5f377b0da67b54e1a48387b82a86d1417c343a84b05b15e5
+metadata:
+  title: 度測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc030.xml
+hash: sha256:75fc773772ad530d0281112aa051009c6750b81ffa948acd8a7239d9bd7eb353

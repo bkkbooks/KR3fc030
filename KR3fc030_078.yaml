@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc030/tls/v1/juan/78
+seq: 78
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 餘二尺五寸八二為景較以景較二尺五寸八二除積實淂立表上高四十尺餘分二萬五千八百二十之二十八加立表淂全高五十尺再置表上高四十尺以乘前表距窺表四尺二寸淂積實一百六十八尺餘表分之淂溪濶二十八尺又總法以前距二十八尺併後距一十七尺二寸一八為相距四十五尺二寸一八餘表乘之淂積實二百七十一尺三寸八以後表退行六尺七寸八二分之淂立表上高四十尺餘分六萬七千八百二十之二十八加立表淂全高五十尺
+  hash: sha256:cfe5d2a52ddb38281181a60e09709d1cc252e27d27a41565ca4f5ee6ac8b6096
+metadata:
+  title: 度測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc030.xml
+hash: sha256:d7dfee8682b9207a1372b7cd90224380244555a15f4a24d2388351181025b691

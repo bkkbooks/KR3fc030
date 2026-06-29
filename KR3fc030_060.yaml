@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc030/tls/v1/juan/60
+seq: 60
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 檇李陳藎謨編平矩以正繩凡用測依繩木之定施于表矩斯大句股之形正方焉大句股之形𣣱矩度代受之過故法𠋣矩于窺表視其針無偏則表體直又從兩耳𢖍視之地無汚𨺚則相矩平于是始運矩凡立高測𤰞以高處取直為凖如上法在臺在山皆然居𤰞測高以相距之地取平為凖如木能平以矩度橫視之識其高處起高算次量所識以下高併上高淂全高如所識處不能至或不欲至則以相距數用測深法測下高併
+  hash: sha256:82d559c80416c7373b469f32c282af2365949b7414e7468ca2c423e32ebf0c2d
+metadata:
+  title: 度測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc030.xml
+hash: sha256:f40be52d6423c51588a88dfb007a0fcfc95a5cc8a8c40cea8e1ffbb56c2c63a7
