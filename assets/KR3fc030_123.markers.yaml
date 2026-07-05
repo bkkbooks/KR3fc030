@@ -21,7 +21,6 @@ markers:
   - {type: line-break, offset: 82, content: '', id: KX_5_dup56, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 103, content: '', id: KR3fc030_tls_001-p63.s6}
   - {type: line-break, offset: 103, content: '', id: KX_6_dup57, _xml_error: duplicate-id, _xml_original_id: KX_6}
-  - {type: substitution, offset: 112, original: 㝡, replacement: 最, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1223}}
   - {type: 'tls:seg', offset: 124, content: '', id: KR3fc030_tls_001-p63.s7}
   - {type: line-break, offset: 124, content: '', id: KX_7_dup57, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 145, content: '', id: KR3fc030_tls_001-p63.s8}
@@ -46,7 +45,6 @@ markers:
   - {type: line-break, offset: 204, content: '', id: KR3fc030_tls_123-bkklb3}
   - {type: 'tls:seg', offset: 220, content: '', id: KR3fc030_tls_001-p63.s14.1}
   - {type: line-break, offset: 220, content: '', id: KX_14_dup52, _xml_error: duplicate-id, _xml_original_id: KX_14}
-  - {type: substitution, offset: 224, original: 与, replacement: 與, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0008}}
   - {type: 'tls:seg-end', offset: 227, content: '', id: KR3fc030_tls_001-p63.s14.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 227, content: '', id: KR3fc030_tls_001-p63.s15.1}
   - {type: line-break, offset: 227, content: '', id: KX_15_dup51, _xml_error: duplicate-id, _xml_original_id: KX_15}
@@ -88,4 +86,4 @@ markers:
   - {type: line-break, offset: 359, content: '', id: KR3fc030_tls_123-bkklb9}
   - {type: punctuation, offset: 359, content: ○, id: KR3fc030_tls_123-bkkpn6}
   back: []
-hash: sha256:0be24a68ed01bedd721d3e06135168f5b7b2468b713b31a25dd5e9cbddfe3692
+hash: sha256:0cb624fc43a16c147ca665940aee86052db7f87b470c9955d3308b84c7a3b2a5

@@ -5,8 +5,6 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc030_tls_001-p89.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup77, _xml_error: duplicate-id, _xml_original_id: KX_1}
-  - {type: substitution, offset: 5, original: 㡬, replacement: 幾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3151}}
-  - {type: substitution, offset: 12, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'tls:seg', offset: 22, content: '', id: KR3fc030_tls_001-p89.s2}
   - {type: line-break, offset: 22, content: '', id: KX_2_dup82, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 43, content: '', id: KR3fc030_tls_001-p89.s3}
@@ -30,9 +28,8 @@ markers:
   - {type: line-break, offset: 162, content: '', id: KX_11_dup82, _xml_error: duplicate-id, _xml_original_id: KX_11}
   - {type: 'tls:seg', offset: 184, content: '', id: KR3fc030_tls_001-p89.s12}
   - {type: line-break, offset: 184, content: '', id: KX_12_dup80, _xml_error: duplicate-id, _xml_original_id: KX_12}
-  - {type: substitution, offset: 203, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'tls:seg', offset: 206, content: '', id: KR3fc030_tls_001-p89.s13}
   - {type: line-break, offset: 206, content: '', id: KX_13_dup79, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: xml-element, offset: 207, content: '', id: KR3fc030_tls_175-bkkxmlele1, name: p, role: close}
   back: []
-hash: sha256:8a86cfb3267796c768f39d0f1cd618c5004b09cd032c61a50a78988cadd2329a
+hash: sha256:075a71f4af5f22574c84d4c11f679cd4305134bec6b2bf467ca23216ceb7343d
