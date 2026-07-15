@@ -29,6 +29,7 @@ markers:
   - {type: line-break, offset: 37, content: '', id: KR3fc030_tls_056-bkklb4}
   - {type: 'tls:seg-end', offset: 43, content: '', id: KR3fc030_tls_001-p28.s2.4_end, seg_type: comm}
   - {type: 'tls:seg', offset: 43, content: '', id: KR3fc030_tls_001-p28.s2.5}
+  - {type: substitution, offset: 45, original: 减, replacement: 減, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17346}}
   - {type: 'tls:seg', offset: 46, content: '', id: KR3fc030_tls_001-p28.s3.1}
   - {type: line-break, offset: 46, content: '', id: KX_3_dup28, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg-start', offset: 49, content: '', id: KR3fc030_tls_001-p28.s3.2, seg_type: comm, member_ids: [KR3fc030_tls_001-p28.s3.2]}
@@ -74,6 +75,7 @@ markers:
   - {type: line-break, offset: 141, content: '', id: KR3fc030_tls_056-bkklb12}
   - {type: 'tls:seg-end', offset: 143, content: '', id: KR3fc030_tls_001-p28.s13.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 143, content: '', id: KR3fc030_tls_001-p28.s13.2}
+  - {type: substitution, offset: 145, original: 减, replacement: 減, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17346}}
   - {type: 'tls:seg-start', offset: 149, content: '', id: KR3fc030_tls_001-p28.s13.3, seg_type: comm, member_ids: [KR3fc030_tls_001-p28.s13.3]}
   - {type: 'tls:seg', offset: 149, content: '', id: KR3fc030_tls_001-p28.s13.3}
   - {type: line-break, offset: 156, content: '', id: KR3fc030_tls_056-bkklb13}
@@ -90,4 +92,4 @@ markers:
   - {type: 'tls:seg', offset: 177, content: '', id: KR3fc030_tls_001-p28.s15.2}
   - {type: line-break, offset: 187, content: '', id: KR3fc030_tls_056-bkklb15}
   back: []
-hash: sha256:72fe8d05f161636df238288380746428c7e5710efd36a26a05385ebea21b3d5a
+hash: sha256:8c73587c53cb5371c37701b4991feadb84c8773259a4afcfde613dc1fa79a297

@@ -38,6 +38,7 @@ markers:
   - {type: line-break, offset: 108, content: '', id: KX_7_dup34, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg-start', offset: 113, content: '', id: KR3fc030_tls_001-p35.s7.2, seg_type: comm, member_ids: [KR3fc030_tls_001-p35.s7.2]}
   - {type: 'tls:seg', offset: 113, content: '', id: KR3fc030_tls_001-p35.s7.2}
+  - {type: substitution, offset: 113, original: 与, replacement: 與, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16170}}
   - {type: line-break, offset: 117, content: '', id: KR3fc030_tls_070-bkklb4}
   - {type: 'tls:seg-end', offset: 121, content: '', id: KR3fc030_tls_001-p35.s7.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 121, content: '', id: KR3fc030_tls_001-p35.s8}
@@ -45,6 +46,7 @@ markers:
   - {type: punctuation, offset: 131, content: ○, id: KR3fc030_tls_070-bkkpn5}
   - {type: 'tls:seg', offset: 140, content: '', id: KR3fc030_tls_001-p35.s9.1}
   - {type: line-break, offset: 140, content: '', id: KX_9_dup34, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: substitution, offset: 147, original: 参, replacement: 參, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16823}}
   - {type: 'tls:seg-start', offset: 155, content: '', id: KR3fc030_tls_001-p35.s9.2, seg_type: comm, member_ids: [KR3fc030_tls_001-p35.s9.2]}
   - {type: 'tls:seg', offset: 155, content: '', id: KR3fc030_tls_001-p35.s9.2}
   - {type: punctuation, offset: 158, content: ○, id: KR3fc030_tls_070-bkkpn6}
@@ -60,4 +62,4 @@ markers:
   - {type: 'tls:seg', offset: 187, content: '', id: KR3fc030_tls_001-p35.s12}
   - {type: line-break, offset: 187, content: '', id: KX_12_dup34, _xml_error: duplicate-id, _xml_original_id: KX_12}
   back: []
-hash: sha256:10304c2309eebd65da3b1eeacfad3f05c895338d7d0067b462fbf07825b7e5c0
+hash: sha256:7ac4d7b95701f5ff68a950e8fd1f0e3055cca9f0bd14709f8cd4b0d0f92db480

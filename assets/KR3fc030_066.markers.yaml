@@ -7,6 +7,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_1_dup28, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: 'tls:seg-end', offset: 1, content: '', id: KR3fc030_tls_001-p33.s1.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 1, content: '', id: KR3fc030_tls_001-p33.s1.2}
+  - {type: substitution, offset: 1, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20786}}
   - {type: 'tls:seg-start', offset: 8, content: '', id: KR3fc030_tls_001-p33.s1.3, seg_type: comm, member_ids: [KR3fc030_tls_001-p33.s1.3]}
   - {type: 'tls:seg', offset: 8, content: '', id: KR3fc030_tls_001-p33.s1.3}
   - {type: line-break, offset: 11, content: '', id: KR3fc030_tls_066-bkklb1}
@@ -25,6 +26,7 @@ markers:
   - {type: 'tls:seg', offset: 28, content: '', id: KR3fc030_tls_001-p33.s2.2}
   - {type: 'tls:seg', offset: 47, content: '', id: KR3fc030_tls_001-p33.s3}
   - {type: line-break, offset: 47, content: '', id: KX_3_dup33, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: substitution, offset: 53, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20786}}
   - {type: 'tls:seg', offset: 68, content: '', id: KR3fc030_tls_001-p33.s4}
   - {type: line-break, offset: 68, content: '', id: KX_4_dup33, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg', offset: 74, content: '', id: KR3fc030_tls_001-p33.s5}
@@ -44,4 +46,4 @@ markers:
   - {type: 'tls:seg', offset: 197, content: '', id: KR3fc030_tls_001-p33.s13}
   - {type: line-break, offset: 197, content: '', id: KX_13_dup32, _xml_error: duplicate-id, _xml_original_id: KX_13}
   back: []
-hash: sha256:73a7a6a39de5d629e746bb867430f88ca4e4084882957f77a3f696d1dfa1d9c3
+hash: sha256:f1c3d6fbcfee01a39b4df461117c1b77f05351c5c62871c1b44e52cba7c57f44

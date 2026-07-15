@@ -13,12 +13,14 @@ markers:
   - {type: line-break, offset: 27, content: '', id: KX_4_dup27, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fc030_tls_001-p27.s5}
   - {type: line-break, offset: 40, content: '', id: KX_5_dup27, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: substitution, offset: 41, original: 减, replacement: 減, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17346}}
   - {type: 'tls:seg', offset: 52, content: '', id: KR3fc030_tls_001-p27.s6}
   - {type: line-break, offset: 52, content: '', id: KX_6_dup27, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 56, content: '', id: KR3fc030_tls_001-p27.s7}
   - {type: line-break, offset: 56, content: '', id: KX_7_dup27, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 69, content: '', id: KR3fc030_tls_001-p27.s8}
   - {type: line-break, offset: 69, content: '', id: KX_8_dup27, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: substitution, offset: 71, original: 减, replacement: 減, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17346}}
   - {type: 'tls:seg-start', offset: 81, content: '', id: KR3fc030_tls_001-p27.s9.1, seg_type: comm, member_ids: [KR3fc030_tls_001-p27.s9.1]}
   - {type: 'tls:seg', offset: 81, content: '', id: KR3fc030_tls_001-p27.s9.1}
   - {type: line-break, offset: 81, content: '', id: KX_9_dup27, _xml_error: duplicate-id, _xml_original_id: KX_9}
@@ -65,4 +67,4 @@ markers:
   - {type: 'tls:seg', offset: 155, content: '', id: KR3fc030_tls_001-p27.s14.2}
   - {type: line-break, offset: 163, content: '', id: KR3fc030_tls_054-bkklb8}
   back: []
-hash: sha256:5c0ad9115f5cb56cb145e628b9960641f241d9575bb783c320132da325534ccd
+hash: sha256:bebbde19af82fccd5952518b054fd7ba60ad6fc46582b3bf9e3166c41310f111
